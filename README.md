@@ -17,5 +17,4 @@ Here are 2 key elements of my model that need further explanation.
 ![Vector Diagram](images/vectorDiagram.jpeg)
 
 
-There are also several other elements that are key to the functioning of my model, but they are pretty simple to understand from reading the code and are 
-straightforward.
+There are also several other elements that are key to the functioning of my model, but they are pretty simple to understand from reading the code.
